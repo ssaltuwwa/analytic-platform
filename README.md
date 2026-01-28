@@ -3,7 +3,7 @@
 A real-time analytics platform for visualizing time-series data with MongoDB and Chart.js.
 
 ## 🚀 Live Demo
-- **Render**: [https://analytics-platform.onrender.com](https://analytics-platform.onrender.com)
+- **Replit**: [[https://analytics-platform.onrender.com](https://replit.com/@ssaltuwwa/analytic-platform)]([https://analytics-platform.onrender.com](https://replit.com/@ssaltuwwa/analytic-platform))
 - **Frontend**: Interactive dashboard with charts and metrics
 - **Backend**: REST API for data retrieval and analysis
 
@@ -103,5 +103,5 @@ Open **http://localhost:2002** in your browser
 
 * [Chart.js](https://www.chartjs.org/) — for amazing data visualization
 * [MongoDB](https://www.mongodb.com/) — for flexible database
-* [Render](https://render.com/) — for free hosting
+* [Render](https://replit.com/) — for free hosting
 * [Font Awesome](https://fontawesome.com/) — for icons
