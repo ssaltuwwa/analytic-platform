@@ -59,8 +59,6 @@ A real-time analytics platform for visualizing time-series data with MongoDB and
 - **Database**: MongoDB with Mongoose ODM
 - **Deployment**: Render.com (Free tier)
 
-## 📁 Project Structure
-
 ## 🚀 Quick Start (Local Development)
 
 ### Prerequisites
@@ -88,3 +86,22 @@ npm start
 
 Open **http://localhost:2002** in your browser
 
+## 📡 API Endpoints
+
+| Method | Endpoint | Description |
+| :--- | :--- | :--- |
+| `GET` | `/api/health` | Health check |
+| `GET` | `/api/measurements` | Get time-series data |
+| `GET` | `/api/measurements/metrics` | Get statistical metrics |
+| `POST` | `/api/measurements/seed` | Generate test data |
+
+## 👨‍💻 Author
+
+**Saltanat** — [GitHub](https://github.com/ssaltuwwa)
+
+## 🙏 Acknowledgments
+
+* [Chart.js](https://www.chartjs.org/) — for amazing data visualization
+* [MongoDB](https://www.mongodb.com/) — for flexible database
+* [Render](https://render.com/) — for free hosting
+* [Font Awesome](https://fontawesome.com/) — for icons
